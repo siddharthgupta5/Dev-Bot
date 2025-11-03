@@ -14,7 +14,7 @@ An AI-powered development assistant that performs code reviews and generates uni
 
 ### 1. Install
 ```bash
-git clone (https://github.com/siddharthgupta5/Dev-Bot.git)
+git clone https://github.com/siddharthgupta5/Dev-Bot.git
 cd dev-bot-final
 python -m venv .venv
 .venv\Scripts\activate  # Windows
